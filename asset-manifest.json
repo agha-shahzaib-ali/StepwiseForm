@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/StepwiseForm/static/css/main.b4a6fec2.css",
+    "main.js": "/StepwiseForm/static/js/main.42f54fd0.js",
+    "static/js/787.59a77596.chunk.js": "/StepwiseForm/static/js/787.59a77596.chunk.js",
+    "static/media/bg-sidebar-desktop.svg": "/StepwiseForm/static/media/bg-sidebar-desktop.6918153f38678372ceb1.svg",
+    "static/media/icon-advanced.svg": "/StepwiseForm/static/media/icon-advanced.705bd10c4c1f688871d729633f0ca4ae.svg",
+    "static/media/icon-thank-you.svg": "/StepwiseForm/static/media/icon-thank-you.ee753f231cc5a5789b8eb922a96472c0.svg",
+    "index.html": "/StepwiseForm/index.html",
+    "static/media/icon-pro.svg": "/StepwiseForm/static/media/icon-pro.2e7e377da9c658d608624304a0f8dae6.svg",
+    "static/media/icon-arcade.svg": "/StepwiseForm/static/media/icon-arcade.a08c098289a31bb2f66d675be71565b3.svg",
+    "main.b4a6fec2.css.map": "/StepwiseForm/static/css/main.b4a6fec2.css.map",
+    "main.42f54fd0.js.map": "/StepwiseForm/static/js/main.42f54fd0.js.map",
+    "787.59a77596.chunk.js.map": "/StepwiseForm/static/js/787.59a77596.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4a6fec2.css",
+    "static/js/main.42f54fd0.js"
+  ]
+}
